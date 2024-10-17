@@ -8,8 +8,8 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ### Links
 
-- Solution URL: [here](https://www.frontendmentor.io/solutions/news-homepage-solution-3OdCLAcnjh)
-- Live Site URL: [here](https://sunilbaghel002.github.io/news-homepage-main/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/newsletter-sign-up-form-with-success-message-solution-XLeRWZUZ7l)
+- Live Site URL: [here](https://sunilbaghel002.github.io/newsletter-sign-up-with-success-message-main/)
 
 ## My process
 
